@@ -11,6 +11,8 @@
   "dependencies": {
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
+    "intersection-observer": "^0.12.2",
+    "swiper": "^11.2.1",
     "vue": "^3.4.29",
     "vue-router": "^4.3.3"
   },

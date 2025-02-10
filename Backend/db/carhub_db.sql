@@ -18,7 +18,7 @@ CREATE TABLE cars (
 );
 
 
--- Erstelle Tabelle für die Ausstattung
+
 CREATE TABLE car_equipment (
     id INT AUTO_INCREMENT PRIMARY KEY,
     car_id INT,
